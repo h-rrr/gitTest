@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("hot-fix111");
         System.out.println("hot-pushtest");
         System.out.println("hot-fix111");
-
+        // 哈哈哈哈
+        System.out.println("hot-fix111");
     }
 }
